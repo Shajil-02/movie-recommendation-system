@@ -58,4 +58,5 @@ scikit-image → Image display
 👨‍💻 Author
 
 Created by - Shajil BP
+
 Feel free to connect and contribute....
